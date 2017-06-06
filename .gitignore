@@ -6,3 +6,5 @@ Package Control.cache/
 Package Control.ca-certs/
 Doxy.sublime-license
 encoding_cache.json
+*ca-bundle
+*ca-bundle.crt
