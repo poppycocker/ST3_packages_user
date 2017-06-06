@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"ConvertToUTF8",
+		"CSS Format",
+		"DoxyDoxygen",
+		"EsFormatter",
+		"Gofmt",
+		"HTML5",
+		"IMESupport",
+		"Indent XML",
+		"InputSequence",
+		"jQuery",
+		"LiveStyle",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"Shell Turtlestein",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SyncedSideBar",
+		"Theme - Flatland",
+		"Vue Syntax Highlight"
+	],
+	"repositories":
+	[
+		"https://github.com/kazu1107/InputSequence.git"
+	]
+}

@@ -1,0 +1,15 @@
+[{
+  "keys": ["ctrl+shift+c"],
+  "command": "subprocess_in_cwd",
+  "args": {
+    "cmd": ["C:\\Program Files\\ConEmu\\ConEmu64.exe"]
+  },
+}, {
+  // ES Formatter key binding
+  "keys": ["ctrl+alt+f"],
+  "command": "esformatter"
+}, {
+  // InputSequence key binding
+  "keys": ["ctrl+alt+1"],
+  "command": "inputsequence"
+}]
