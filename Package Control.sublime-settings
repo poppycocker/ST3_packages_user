@@ -28,7 +28,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-jshint",
+		"SublimeLinter-contrib-eslint",
 		"SyncedSideBar",
 		"Theme - Flatland",
 		"Vue Syntax Highlight"
