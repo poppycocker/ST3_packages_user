@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AutoFileName",
+		"BracketHighlighter",
 		"Codecs33",
 		"ConvertToUTF8",
 		"CSS Format",
