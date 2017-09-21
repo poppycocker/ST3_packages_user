@@ -7,7 +7,7 @@
 }, {
   // ES Formatter key binding
   "keys": ["ctrl+alt+f"],
-  "command": "esformatter"
+  "command": "js_prettier"
 }, {
   // InputSequence key binding
   "keys": ["ctrl+alt+1"],

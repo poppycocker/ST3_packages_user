@@ -1,0 +1,7 @@
+{
+  "prettier_options": {
+    "auto_format_on_save": true,
+    "semi": false,
+    "singleQuote": true,
+  }
+}
