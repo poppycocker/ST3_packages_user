@@ -11,5 +11,5 @@
 }, {
   // InputSequence key binding
   "keys": ["ctrl+alt+1"],
-  "command": "inputsequence"
+  "command": "input_sequence"
 }]
